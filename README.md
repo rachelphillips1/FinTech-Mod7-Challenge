@@ -16,6 +16,10 @@ Packages:
 * Sqlalchemy - To read data in SQL and perform SQL actions in a Python notebook.
 * Voila - To create a web app based on an iPynb.
 
+## Voila Video
+
+https://user-images.githubusercontent.com/31870765/224873212-6710738e-12e9-480e-a0c5-404aa5df2255.mov
+
 ## Installation Guide
 
 To repeat the analysis on your own machine, simply open the Jupyter notebok in a web browser and run each cell. This will provide data analysis as well as visualization through a variety of graphs.
